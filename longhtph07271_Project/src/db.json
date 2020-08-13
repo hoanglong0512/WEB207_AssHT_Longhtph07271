@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "name": "GIÀY ULTRABOOST 21",
+      "cate_id": "3",
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/426eceb7423042b3b0aeab0b00ad6214_9366/Giay_UltraBoost_20_Mau_djen_EG0691.jpg",
+      "price": "4500000",
+      "price_sale": "5000000",
+      "status": "1",
+      "short_desc": "ƯU ĐÃI NGÀY HỘI SNEAKER ADIDAS!",
+      "detail": "<h5 class=\"heading___3T8PO\">GI&Agrave;Y ULTRABOOST 21</h5>\n<h5 class=\"gl-heading--italic heading___3T8PO\">KIỂM SO&Aacute;T LỰC KHI CHẠM ĐẤT, THOẢI M&Aacute;I TRONG TỪNG BƯỚC CHẠY.</h5>\n<p>Mỗi ng&agrave;y mới. Mỗi buổi chạy mới. H&atilde;y tận dụng tối đa. Đ&ocirc;i gi&agrave;y hiệu năng cao n&agrave;y c&oacute; th&acirc;n gi&agrave;y bằng vải dệt kim &ocirc;m ch&acirc;n. C&aacute;c đường may trong trợ lực được bố tr&iacute; chuẩn x&aacute;c để tạo độ n&acirc;ng đỡ ở đ&uacute;ng những vị tr&iacute; cần thiết. G&oacute;t gi&agrave;y l&agrave;m từ chất liệu elastane mềm mại cho độ &ocirc;m thoải m&aacute;i hơn. Lớp đệm đ&agrave;n hồi ho&agrave;n trả năng lượng cho từng sải bước tạo cảm gi&aacute;c như c&oacute; thể chạy m&atilde;i m&atilde;i.</p>",
+      "id": 1
+    },
+    {
+      "name": "GIÀY ULTRABOOST SUMMER.RDY",
+      "cate_id": "3",
+      "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/502e0adbe36d4db483f9ab96011f8ab8_9366/Giay_Ultraboost_SUMMER.RDY_Mau_trang_FW9771.jpg",
+      "price": "4500000",
+      "price_sale": "6500000",
+      "status": "1",
+      "short_desc": "ƯU ĐÃI NGÀY HỘI SNEAKER ADIDAS!\nƯu đãi Ngày hội Sneaker adidas!",
+      "detail": "<h5 class=\"heading___3T8PO\">GI&Agrave;Y ULTRABOOST SUMMER.RDY</h5>\n<h5 class=\"gl-heading--italic heading___3T8PO\">GI&Agrave;Y SI&Ecirc;U NHẸ V&Agrave; THO&Aacute;NG KH&Iacute; D&Agrave;NH CHO CHẠY BỘ KHI TRỜI N&Oacute;NG.</h5>\n<p>Mặt trời đang chiếu rọi, sưởi ấm l&agrave;n da bạn. Bạn cảm thấy cơ bắp được thả lỏng v&agrave; nhanh nhẹn. Tinh thần của bạn đang d&acirc;ng cao. Nguồn năng lượng t&iacute;ch cực chảy trong cơ thể bạn. Đ&acirc;y sẽ l&agrave; một buổi chạy tuyệt vời. Đừng ngại n&oacute;ng bức. H&atilde;y chinh phục đường chạy với đ&ocirc;i gi&agrave;y adidas Ultraboost S.RDY n&agrave;y. Với thiết kế gi&uacute;p bạn chạy bộ đạt phong độ tốt nhất trong điều kiện oi bức, gi&agrave;y c&oacute; th&acirc;n gi&agrave;y bằng vải dệt kim si&ecirc;u nhẹ, tho&aacute;ng kh&iacute; với c&aacute;c mảng trong suốt khoe đ&ocirc;i tất b&ecirc;n trong. Sắc hồng ch&iacute;nh l&agrave; gam m&agrave;u quyền lực của bạn. Lấy cảm hứng từ phong tr&agrave;o to&agrave;n cầu hướng đến sự thay đổi kết nối tất cả ch&uacute;ng ta, kh&ocirc;ng ph&acirc;n biệt giới t&iacute;nh.</p>",
+      "id": 2
+    },
+    {
+      "name": "Air Jordan 1 Low",
+      "cate_id": "2",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/q8i3x6lqfasvvojvvits/air-jordan-1-low-shoe-6Q1tFM.jpg",
+      "price": "2700000",
+      "price_sale": "3000000",
+      "status": "0",
+      "short_desc": "Bán hết: Sản phẩm này hiện không có sẵn",
+      "detail": "<p><span>Lấy cảm hứng từ phi&ecirc;n bản gốc ra mắt v&agrave;o năm 1985, Air Jordan 1 Low mang đến một vẻ ngo&agrave;i cổ điển, sạch sẽ, quen thuộc nhưng lu&ocirc;n mới mẻ.&nbsp;N&oacute; được tạo ra cho chế độ b&igrave;nh thường, với thiết kế mang t&iacute;nh biểu tượng đi c&ugrave;ng mọi thứ v&agrave; kh&ocirc;ng bao giờ lỗi thời.</span></p>\n<ul class=\"description-preview__features pt8-sm pb6-sm ncss-list-ul\">\n<li class=\"description-preview__color-description ncss-li\"><span>M&agrave;u sắc hiển thị: Trắng / Sao biển / Đen</span></li>\n<li class=\"description-preview__style-color ncss-li\"><span>Phong c&aacute;ch: 553558-128</span></li>\n</ul>",
+      "id": 3
+    },
+    {
+      "name": "Jordan 'Why Not?' Zer0.3 PF",
+      "cate_id": "2",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/eb3cbe13-0da1-4729-bf88-14c1838f5f22/jordan-why-not-zer03-pf-basketball-shoe-nNTc80.jpg",
+      "price": "3300000",
+      "price_sale": "4000000",
+      "status": "1",
+      "short_desc": "Màu sắc hiển thị: Trắng / Xám lạnh / Xám sói / Trắng\nPhong cách: CD3002-100",
+      "detail": "<p><span class=\"\">Một trong những đối thủ cạnh tranh khốc liệt nhất của tr&ograve; chơi, m&aacute;y nổ ba đ&ocirc;i Russell Westbrook c&oacute; động cơ, cơ bắp v&agrave; tr&iacute; lực để ph&ugrave; hợp với sự kh&ocirc;ng sợ h&atilde;i của anh ấy &mdash; với c&aacute;c số liệu thống k&ecirc; để hỗ trợ n&oacute;.&nbsp;</span><span class=\"\">Được x&acirc;y dựng để tổ chức tr&ecirc;n c&aacute;c s&acirc;n ngo&agrave;i trời, Jordan \"Why Not?\"&nbsp;</span><span class=\"goog-text-highlight\">Zer0.3 PF được tinh chỉnh cho những người chơi như Russ, người đ&aacute;nh bại đối thủ với tốc độ tuyến t&iacute;nh v&agrave; sự hung h&atilde;n.</span></p>",
+      "id": 4
+    },
+    {
+      "name": "Jordan Delta",
+      "cate_id": "2",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/2847999b-cd7e-4ec1-a71b-bc3ec0dc4022/jordan-delta-shoe-ll8djW.jpg",
+      "price": "3800000",
+      "price_sale": "4500000",
+      "status": "1",
+      "short_desc": "Màu hiển thị: Vachetta Tan / Jade Aura / Light Cream / Sail\nPhong cách: CD6109-200",
+      "detail": "<p><span>Jordan Delta c&oacute; thiết kế biểu cảm v&agrave; thoải m&aacute;i từ trong ra ngo&agrave;i.&nbsp;</span><span>Được l&agrave;m từ hỗn hợp nhiều vật liệu, chiếc gi&agrave;y n&agrave;y c&oacute; phần dưới b&agrave;n ch&acirc;n bằng xốp nhẹ, sang trọng.&nbsp;</span><span class=\"\">N&oacute; được chế tạo một c&aacute;ch tỉ mỉ để c&oacute; một c&aacute;i nh&igrave;n v&agrave; cảm gi&aacute;c m&agrave; chỉ Jordan Brand mới c&oacute; thể mang lại.</span></p>",
+      "id": 5
+    },
+    {
+      "name": "Jordan 'Why Not?' Zer0.3",
+      "cate_id": "2",
+      "image": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5,q_80/3d477049-942f-4ccb-b4f0-f2521dbbe162/jordan-why-not-zer03-basketball-shoe-9Jk64X.jpg",
+      "price": "3900000",
+      "price_sale": "",
+      "status": "1",
+      "short_desc": "Màu sắc hiển thị: Trắng / Xám lạnh / Xám sói / Trắng\nPhong cách: CD3003-100",
+      "detail": "<p><span>Một trong những đối thủ cạnh tranh khốc liệt nhất của tr&ograve; chơi, m&aacute;y nổ ba đ&ocirc;i Russell Westbrook c&oacute; động cơ, cơ bắp v&agrave; tr&iacute; lực để ph&ugrave; hợp với sự kh&ocirc;ng sợ h&atilde;i của anh ấy &mdash; với c&aacute;c số liệu thống k&ecirc; để hỗ trợ n&oacute;.&nbsp;</span><span>Jordan 'Tại sao kh&ocirc;ng?'&nbsp;</span><span>Zer0.3 được điều chỉnh cho sự hỗn loạn tr&ecirc;n s&acirc;n của Russ, c&oacute; d&acirc;y đeo ch&acirc;n giữa để giữ chặt sự vừa vặn v&agrave; bộ đệm lớn để gi&uacute;p anh ta đẩy mạnh v&agrave; nhanh về ph&iacute;a rổ.</span></p>",
+      "id": 6
+    },
+    {
+      "name": "VANS PRIMARY CHECKERBOARD OLD SKOOL BLACK/WHITE",
+      "cate_id": "4",
+      "image": "https://bizweb.dktcdn.net/100/140/774/products/vans-primary-checkerboard-old-skool-black-white-vn0a38g1p0s-4.png?v=1514944448137",
+      "price": "1700000",
+      "price_sale": "",
+      "status": "1",
+      "short_desc": "Khuyến mãi HOT khi mua hàng từ 2 đơn trở lên",
+      "detail": "<p><a href=\"https://vansvietnam.vn/vans-old-skool?aelang=vi\"><em><strong>Vans Old Skoo</strong></em>l </a>&nbsp;ra đời với&nbsp;phong c&aacute;ch trẻ trung, năng động, nhưng kh&ocirc;ng k&eacute;m phần tinh tế, thời trang v&agrave; nay&nbsp;điều ấy thật sự được khẳng định th&ecirc;m lần nữa khi&nbsp;<em><strong>VANS PRIMARY CHECKERBOARD OLD SKOOL BLACK/WHITE</strong></em>&nbsp;ra đời, với sọc caro đậm chất&nbsp;<strong>VANS</strong>, đ&ocirc;i gi&agrave;y n&agrave;y một lần nữa khẳng định vị tr&iacute; đặc biệt&nbsp;của m&igrave;nh đối với c&aacute;c t&iacute;n đồ y&ecirc;u c&aacute;i đẹp c&ugrave;ng sự mạnh mẽ vốn c&oacute; của&nbsp;<strong>VANS</strong>...</p>",
+      "id": 7
+    },
+    {
+      "name": "VANS OLD SKOOL CLASSIC BLACK/WHITE",
+      "cate_id": "4",
+      "image": "https://bizweb.dktcdn.net/100/140/774/files/vans-classic-old-skool-black-white-vn000d3hy28-2.png?v=1515437082235",
+      "price": "1490000",
+      "price_sale": "",
+      "status": "0",
+      "short_desc": "bản custom  bậc nhất của nhà VANS.",
+      "detail": "<h2><strong><em>VANS</em>&nbsp;OLD SKOOL CLASSIC BLACK/WHITE</strong></h2>\n<p>L&agrave; một trong những phi&ecirc;n bản&nbsp;đầu ti&ecirc;n v&agrave; cổ điển nhất của&nbsp;<a href=\"https://vansvietnam.vn/?aelang=vi\"><em><strong>VANS</strong></em></a>&nbsp;trong bộ sưu tập&nbsp;<em><a href=\"https://vansvietnam.vn/vans-old-skool?aelang=vi\"><strong>VANS OLD SKOOL</strong></a></em>&nbsp;ra đời năm 1977. Tới nay đ&ocirc;i gi&agrave;y chỉ với phối m&agrave;u đen trắng n&agrave;y vẫn nằm trong top \"Best Seller\" của&nbsp;<strong><em>VANS&nbsp;</em></strong>tr&ecirc;n to&agrave;n thế giới, với kiểu d&aacute;ng cổ điển c&ugrave;ng \"sọc Jazz\" huyền thoại&nbsp;hợp thời trang khiến đ&ocirc;i&nbsp;<em><strong>VANS</strong></em>&nbsp;n&agrave;y thật sự trở th&agrave;nh mẫu gi&agrave;y&nbsp;<em><strong>classic</strong></em>&nbsp;bất bại, l&agrave; fan h&acirc;m mộ của&nbsp;<em><strong>VANS</strong></em>&nbsp;n&oacute;i chung v&agrave; những skaters n&oacute;i ri&ecirc;ng đều n&ecirc;n c&oacute; một đ&ocirc;i trong tủ gi&agrave;y.</p>",
+      "id": 8
+    },
+    {
+      "name": "Intelligent Wooden Shirt ssss",
+      "cate_id": "2",
+      "image": "https://firebasestorage.googleapis.com/v0/b/longhtph07271-project.appspot.com/o/images%2F9780545726061_0.jpg?alt=media&token=6344f6c9-211d-45d9-8ce2-89818858775e",
+      "price": "2222222222",
+      "price_sale": "",
+      "status": "1",
+      "short_desc": "aaaaaaaaaaaaa",
+      "detail": "<p>sssssssssssssssss</p>",
+      "id": 9
+    }
+  ],
+  "categories": [
+    {
+      "name": "Không Thuộc Danh Mục Nào ...",
+      "description": "danh mục không tên tuổi",
+      "show_menu": "0",
+      "id": 1
+    },
+    {
+      "name": "Giày Nike",
+      "description": "Danh Mục Của Hãng Giày Nike",
+      "show_menu": "0",
+      "id": 2
+    },
+    {
+      "name": "Giày Adidas",
+      "description": "Danh Mục Giày Adidas",
+      "show_menu": "1",
+      "id": 3
+    },
+    {
+      "name": "Giày Vans",
+      "description": "Giày Hãng Vans",
+      "show_menu": "1",
+      "id": 4
+    }
+  ],
+  "blog": [
+    {
+      "title": "DỊCH VỤ VỆ SINH GIÀY HOÀNG LONG",
+      "image": "https://firebasestorage.googleapis.com/v0/b/longhtph07271-project.appspot.com/o/images%2Fblog-1-11.jpg?alt=media&token=6e05541c-9447-405f-928e-83acb6f4f31d",
+      "by": "Hoàng Long",
+      "short_desc": "Với dịch vụ vệ sinh và bảo dưỡng giày bên Brother Concept các bạn sẽ được trải nghiệm dịch vụ một cách trọn vẹn nhất. Hãy để Brother Concept giúp cho đôi giày của bạn như mới nhé!",
+      "content": "<p>C&aacute;c loại gi&agrave;y shop nhận clean gồm&nbsp;<strong>Gi&agrave;y T&acirc;y, Sneaker của nam lẫn nữ</strong></p>\n<p>Dưới đ&acirc;y l&agrave; bảng dịch vụ của Shop để c&aacute;c bạn tham khảo :</p>\n<h2>Vệ Sinh &amp; Chiếu UV Diệt Khuẩn Sneaker</h2>\n<p>30 ph&uacute;t&nbsp;trở l&ecirc;n&nbsp;</p>\n<p>&bull;&nbsp;Gi&aacute; khởi điểm: 100.000&nbsp;₫</p>\n<p>&ndash; L&agrave;m sạch bằng tay từ bề mặt, đế, d&acirc;y đến l&ograve;ng gi&agrave;y. &ndash; Tẩy ố upper &amp; sole gi&agrave;y &ndash; H&ocirc;ng kh&ocirc; tại ph&ograve;ng chuy&ecirc;n dụng, tr&aacute;nh &aacute;nh nắng mặt trời, &ndash; Sau đ&oacute; gi&agrave;y được đưa v&agrave;o hệ thống chiếu UV, &ndash; Khử sạch vi khuẩn c&ograve;n s&oacute;t trong gi&agrave;y, loại bỏ m&ugrave;i h&ocirc;i.</p>\n<p><img src=\"https://scontent-xsp1-1.xx.fbcdn.net/v/t45.5328-4/c290.0.450.450a/116365330_4491194084225761_5186413270745113264_n.jpg?_nc_cat=105&amp;_nc_sid=c48759&amp;_nc_ohc=_ufDLo3xJdgAX9tEyX4&amp;_nc_ht=scontent-xsp1-1.xx&amp;oh=8b2da34256ecf4f53fc2a4be0b894492&amp;oe=5F51654B\" alt=\"\" width=\"450\" height=\"450\" /></p>\n<h2>Vệ sinh Cơ Bản Gi&agrave;y Sneaker</h2>\n<p>30 ph&uacute;t&nbsp;trở l&ecirc;n</p>\n<p>&nbsp;&bull;&nbsp;Gi&aacute; khởi điểm: 70.000&nbsp;₫</p>\n<p>&ndash; L&agrave;m sạch bằng tay từ bề mặt, đế, d&acirc;y đến l&ograve;ng gi&agrave;y, &ndash; Dung dịch ri&ecirc;ng biệt cho từng chất liệu, &ndash; H&ocirc;ng kh&ocirc; tại ph&ograve;ng chuy&ecirc;n dụng, kh&ocirc;ng d&ugrave;ng nhiệt, tr&aacute;nh &aacute;nh nắng mặt trời.</p>\n<p><img src=\"https://scontent-xsp1-1.xx.fbcdn.net/v/t45.5328-4/c0.0.960.960a/p2048x2048/106541829_3275395995848745_2802571155377354664_n.jpg?_nc_cat=105&amp;_nc_sid=c48759&amp;_nc_ohc=9___iWHNxgYAX99itzC&amp;_nc_ht=scontent-xsp1-1.xx&amp;oh=efcbe48f1657ba8f1e303c69d2a032b7&amp;oe=5F50C02C\" alt=\"\" width=\"960\" height=\"960\" /></p>\n<p><img src=\"https://scontent-xsp1-1.xx.fbcdn.net/v/t45.5328-4/c0.0.960.960a/p2048x2048/106541829_3275395995848745_2802571155377354664_n.jpg?_nc_cat=105&amp;_nc_sid=c48759&amp;_nc_ohc=9___iWHNxgYAX99itzC&amp;_nc_ht=scontent-xsp1-1.xx&amp;oh=efcbe48f1657ba8f1e303c69d2a032b7&amp;oe=5F50C02C\" alt=\"\" width=\"960\" height=\"960\" /></p>",
+      "id": 1
+    },
+    {
+      "title": "Các mẫu giày Nike đẹp nhất khiến fan Sneaker không thể bỏ qua",
+      "image": "https://firebasestorage.googleapis.com/v0/b/longhtph07271-project.appspot.com/o/images%2Fblog-1-10.jpg?alt=media&token=9308f4b6-ff09-422c-9ae8-7d2b902a3183",
+      "by": "Hoàng Long",
+      "short_desc": "Nếu bạn là một fan của Nike theo phong cách Streetwear thì bạn chắc hẳn không thể bỏ qua bài viết này. Tổng hợp các mẫu giày Nike, phù hợp với mọi hoạt động của bạn hay những đôi Iconic tượng đài đều được “show off” tại đây. Bây giờ đi ngay vào bài viết nào.",
+      "content": "<h2 id=\"c&aacute;c_mẫu_gi&agrave;y_nike\"><strong>1. Nike Air Max 90 &ndash; Must-have của t&iacute;n đồ retro runner</strong></h2>\n<p>Đ&ocirc;i đầu ti&ecirc;n SaigonSneaker.com muốn giới thiệu cho bạn ch&iacute;nh l&agrave; huyền thoại của c&aacute;c t&iacute;n đồ theo đuổi Retro Runner. Nike Air Max 90 lần đầu được ra mắt đ&atilde; g&acirc;y b&atilde;o thời điểm đ&oacute;, người người nh&agrave; nh&agrave; đổ x&ocirc; đi mua Nike Air Max 90 v&igrave; thiết kế đẹp mắt k&egrave;m theo c&ocirc;ng nghệ Air lạ lẫm.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://saigonsneaker.com/wp-content/uploads/2019/12/cac-loai-giay-nike.jpg\" alt=\"\" width=\"600\" height=\"428\" /></p>\n<p>Đến tận b&acirc;y giờ AM90 vẫn được săn đ&oacute;n kh&aacute; nhiều v&agrave; đ&acirc;y l&agrave; đ&ocirc;i gi&agrave;y &ldquo;must-have&rdquo; của c&aacute;c bạn c&oacute; sở th&iacute;ch về Retro Runner v&agrave; được đ&aacute;nh gi&aacute; l&agrave;&nbsp;<strong>những đ&ocirc;i gi&agrave;y Nike đẹp nhất</strong></p>\n<p><strong>Gợi &yacute;:&nbsp;<a href=\"https://saigonsneaker.com/collections/nike/air-max/\"><em>Xem ngay 6+ đ&ocirc;i gi&agrave;y Nike Air Max, hot nhất l&agrave; m&agrave;u trắng</em></a></strong></p>\n<p><strong><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://saigonsneaker.com/wp-content/uploads/2019/12/mau-giay-nike.jpg\" alt=\"\" width=\"600\" height=\"429\" /></strong></p>\n<h2 id=\"Air_Force_1\"><strong>2. Nike Air Force 1 &ndash; Mẫu gi&agrave;y Nike huyền thoại</strong></h2>\n<p>Nike Air Force 1 (AF1) được Nike debut lần đầu ti&ecirc;n v&agrave;o năm 1982. Thiết kế ban đầu d&agrave;nh cho c&aacute;c vận động vi&ecirc;n b&oacute;ng rổ nhưng v&igrave; vẻ đẹp khỏe khoắn v&agrave; thanh lịch của Air Force 1, n&oacute; dần trở th&agrave;nh một đ&ocirc;i gi&agrave;y &ldquo;ai ai cũng c&oacute;&rdquo;.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://saigonsneaker.com/wp-content/uploads/2019/12/giay-nike-air-force.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>",
+      "id": 2
+    },
+    {
+      "title": "Thương hiệu thời trang Fila có gì đặc biệt?",
+      "image": "https://firebasestorage.googleapis.com/v0/b/longhtph07271-project.appspot.com/o/images%2Ffila-la-gi.jpg?alt=media&token=70475ca9-1c6f-43e6-a8bb-e71c1d40e785",
+      "by": "Hoàng Long",
+      "short_desc": "Fila là gì? Giày Fila của nước nào? Thương hiệu đình đám được các sao Việt và Quốc tế liên tục lăng xê trong khoảng thời gian qua. Hãy cùng SaigonSneaker.com mổ xẻ để tìm ra nguyên nhân qua bài viết nhé.",
+      "content": "<h2 id=\"thương_hiệu_fila\"><strong>1. &Yacute; nghĩa thương hiệu thời trang Fila</strong></h2>\n<p>Với những t&iacute;nh đồ thời trang v&agrave; đặc biệt l&agrave; những ai ưa th&iacute;ch street style, chắc hẳn ch&uacute;ng ta kh&ocirc;ng c&ograve;n lạ lẫm với thương hiệu mang t&ecirc;n Fila. Những đ&ocirc;i gi&agrave;y với&nbsp;<strong>logo Fila</strong>&nbsp;đ&atilde; &ndash; đang v&agrave; sẽ c&ograve;n được diện tr&ecirc;n đường phố như một biểu tượng của sự năng động v&agrave; thời thượng. Vậy h&atilde;y c&ugrave;ng t&igrave;m hiểu v&agrave; l&yacute; giải sức h&uacute;t của thương hiệu n&agrave;y đối với giới trẻ nh&eacute;.</p>\n<p>Fila, Inc. l&agrave; một c&ocirc;ng ty chuy&ecirc;n sản đồ thể thao của&nbsp;<a href=\"https://vi.wikipedia.org/wiki/H%C3%A0n_Qu%E1%BB%91c\">H&agrave;n Quốc</a>, được th&agrave;nh lập tại&nbsp;<a href=\"https://vi.wikipedia.org/wiki/%C3%9D\">&Yacute;</a>.</p>\n<p>Được th&agrave;nh lập v&agrave;o năm 1911 tại &Yacute; sau đ&oacute; được tiếp quản bởi Fila H&agrave;n Quốc v&agrave;o năm 2007, Fila nay đ&atilde; đ&atilde; được sở hữu v&agrave; quản l&yacute; tại c&ocirc;ng ty mẹ ở H&agrave;n Quốc. Chủ tịch cũng như&nbsp;<a href=\"https://vi.wikipedia.org/wiki/T%E1%BB%95ng_gi%C3%A1m_%C4%91%E1%BB%91c_%C4%91i%E1%BB%81u_h%C3%A0nh\">CEO</a>&nbsp;của c&ocirc;ng ty l&agrave; Yoon-Soo Yoon, hiện nay Fila đ&atilde; c&oacute; văn ph&ograve;ng đại diện tại 11 quốc gia tr&ecirc;n thế giới</p>\n<h3 id=\"fila_l&agrave;_g&igrave;\"><strong>Nghĩa của từ Fila l&agrave; g&igrave;</strong></h3>\n<p>Fila l&agrave; một từ trong tiếng &Yacute;, n&oacute; c&oacute; nghĩa l&agrave; Sắp xếp; Kế tiếp.</p>\n<p>H&agrave;m &yacute; của từ Fila l&agrave; một sự li&ecirc;n tiếp c&oacute; kế thừa v&agrave; sự s&aacute;ng tạo dựa tr&ecirc;n sự kế thừa trước đ&oacute;.</p>\n<h3 id=\"sự_ph&aacute;t_triển\"><strong>Sự ph&aacute;t triển của thương hiệu Fila</strong></h3>\n<p>Trước khi trở th&agrave;nh một thương hiệu của H&agrave;n Quốc th&igrave; Fila được bắt nguồn từ đất nước &Yacute; v&agrave;o năm 1911. Fila l&agrave; một thương hiệu may mặc thể thao được th&agrave;nh lập bởi hai anh em nh&agrave; Fila.</p>\n<p>Khởi điểm l&agrave; một c&ocirc;ng ty chuy&ecirc;n sản xuất c&aacute;c sản phẩm may mặc cho khu vực d&acirc;n cư xung quanh. Trong suốt qu&aacute; tr&igrave;nh ph&aacute;t triển, Fila dần trở th&agrave;nh doanh nghiệp dệt may cao cấp, chuy&ecirc;n cung cấp c&aacute;c sản phẩm thời trang thể thao đẳng cấp thế giới.</p>\n<h2 id=\"fila_facts\"><strong>2. Những th&ocirc;ng tin về Fila</strong></h2>\n<p>Một th&ocirc;ng tin kh&aacute; th&uacute; vị về Fila đ&oacute; l&agrave; v&agrave;o l&uacute;c mới th&agrave;nh lập v&agrave; chưa x&acirc;y dựng được tiếng tăm tr&ecirc;n thị trường th&igrave; nh&atilde;n hiệu n&agrave;y chủ yếu sản xuất đồ l&oacute;t.</p>\n<p>Nhưng kể từ khi lấn s&acirc;n sang mảng trang phục thể thao v&agrave; được vận động vi&ecirc;n quần vợt Bj&ouml;rn Borg sử dụng th&igrave; Fila đ&atilde; thu h&uacute;t được nhiều sự ch&uacute; &yacute; hơn.</p>\n<p>Tuy nhi&ecirc;n từ năm 2003, Fila phải b&aacute;n lại thương hiệu cho Cerberus Capital Management &ndash; quỹ tự bảo hiểm rủi ro, do l&agrave;m ăn kh&oacute; khăn. Do c&oacute; những chiến lược th&iacute;ch hợp từ&nbsp; Cerberus Capital Management, Fila dần ph&aacute;t triển tr&ecirc;n to&agrave;n thế giới.</p>\n<p>Ban đầu Fila Korea chỉ l&agrave; một c&ocirc;ng ty hoạt động độc lập của thương hiệu c&ugrave;ng t&ecirc;n, tuy nhi&ecirc;n sau khi về chung một nh&agrave; v&agrave;o năm 2007 th&igrave; thương hiệu n&agrave;y đ&atilde; trở n&ecirc;n nổi tiếng, cạnh tranh với c&aacute;c sản phẩm ph&acirc;n kh&uacute;c thấp như Vans, Converse,..</p>\n<h2 id=\"thời_trang_fila\"><strong>3. C&aacute;c item của Fila bạn n&ecirc;n sở hữu</strong></h2>\n<p>Kể từ giai đoạn năm 2017 đến gần đ&acirc;y, hẳn ch&uacute;ng ta kh&ocirc;ng c&ograve;n xa lạ với sự hiện diện của c&aacute;c sản phẩm của Fila tại thị trường Việt Nam. Thương hiệu H&agrave;n Quốc n&agrave;y đ&atilde; cho ra nhiều d&ograve;ng sản phẩm g&acirc;y sốt cho giới trẻ y&ecirc;u thời trang. H&atilde;y c&ugrave;ng điểm qua những c&aacute;i t&ecirc;n đang &ldquo;hot&rdquo; của Fila nh&eacute;!</p>\n<h3 id=\"gi&agrave;y\"><strong>Gi&agrave;y Fila</strong></h3>\n<p>C&oacute; một điều kh&ocirc;ng thể phủ nhận được đ&oacute; l&agrave; độ hot của những đ&ocirc;i Sneaker của thương hiệu Fila. Được thiết kế theo phong c&aacute;ch hầm hố nhưng vẫn t&ugrave;y biến để ph&ugrave; hợp với d&aacute;ng người Ch&acirc;u &Aacute;, đ&ocirc;i sneaker Fila &ldquo;chất lừ&rdquo; đ&atilde; l&ecirc;n ng&ocirc;i khiến cho bất k&igrave; ai cũng muốn sở hữu.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://saigonsneaker.com/wp-content/uploads/2018/09/fila-la-gi.jpg\" alt=\"\" width=\"600\" height=\"450\" /></p>\n<p>Với phối m&agrave;u full trắng, đ&ocirc;i sneaker Fila vừa thời thượng lại cực kỳ dễ phối đồ. Bạn c&oacute; thể kết hợp n&oacute; với nhiều kiểu trang phục v&agrave; biến h&oacute;a để c&oacute; một outfit chất lượng nhất.</p>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://saigonsneaker.com/wp-content/uploads/2020/01/fila-shoes.jpg\" alt=\"\" width=\"600\" height=\"600\" /></p>\n<article id=\"post-150929\" class=\"post-single-page post-150929 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle\">\n<div class=\"article-inner\">\n<div class=\"article-body-container\">\n<div class=\"entry-content woodmart-entry-content\">\n<p>Qua b&agrave;i viết tr&ecirc;n bạn đ&atilde; hiểu r&otilde; thương hiệu&nbsp;<strong>Fila l&agrave; g&igrave;</strong>.&nbsp;L&agrave; một trong những thương hiệu thời trang được giới trẻ y&ecirc;u th&iacute;ch bởi sự đơn giản, c&aacute; t&iacute;nh nhưng cũng rất thời trang, Fila đang từng ng&agrave;y khẳng định độ &ldquo;hot&rdquo; của n&oacute; tr&ecirc;n thị trường thời trang. Bạn h&atilde;y chọn cho m&igrave;nh một sản phẩm ưa th&iacute;ch nhất của thương hiệu n&agrave;y nh&eacute;.</p>\n</div>\n</div>\n</div>\n</article>\n<div class=\"woodmart-single-footer\">\n<div class=\"single-post-social\">\n<div class=\"woodmart-social-icons text-center icons-design-colored icons-size-default color-scheme-dark social-share social-form-circle\">&nbsp;</div>\n</div>\n</div>",
+      "id": 3
+    }
+  ],
+  "contact": [
+    {
+      "name": "Long Hoàng Tuấn",
+      "email": "longhtph07271@fpt.edu.vn",
+      "subject": "Giao Hàng Muộn",
+      "message": "đã đặt đôi giầy nike được 10 mà chưa nhận được hàng",
+      "id": 1
+    }
+  ]
+}
